@@ -31,3 +31,6 @@ getCity('manchester').then(data => {
 }).catch(err => console.log(err));
 
 // getWeather("329260");
+
+
+
